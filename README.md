@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityababerwal
 - 👀 I’m interested in Web Dev, Python, C++
-- 🌱 I’m currently learning Web Dev (Python, JavaScript, Django, React)
+- 🌱 I’m currently learning Web Dev (Python, JavaScript, React)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adityababerwal@gmail.com
 
